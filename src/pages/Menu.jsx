@@ -12,13 +12,13 @@ const chicken = [
     name: "Full Chicken Tandoori",
     description:
       "Full plate (2 breasts and leg pieces) \n half plate (1 breast and leg piece)",
-    price: "₹380 / ₹200",
+    price: "₹300 / ₹180",
   },
   {
     id: 2,
     name: "Chicken Alfaam",
     description: "Full plate and half plate",
-    price: "₹ 400 / ₹210",
+    price: "₹ 350 / ₹180",
   },
   {
     id: 3,
